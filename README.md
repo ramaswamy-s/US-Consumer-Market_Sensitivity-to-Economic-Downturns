@@ -7,7 +7,7 @@ Use the "Framework Consumer Spending Pattern Analysis_V 1.0.R" Script to inspect
 # Source of Data:
 1. Diary Survey (small everyday purchases)  
 2. Interview Survey (large purchases and regular expenditures)  
-from Bureau of Labor Statistics
+from US Bureau of Labor Statistics (https://www.bls.gov/cex/pumd_data.htm#csv)
 
 # What does the Framework do?
 Derives the key variables required for Consumer Spending Pattern analysis into "Consumer spending_2018.xls" output file:  
